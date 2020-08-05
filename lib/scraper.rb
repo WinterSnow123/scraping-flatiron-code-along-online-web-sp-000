@@ -22,4 +22,4 @@ class Scraper
 
 end
 
-Scraper.new.ge_page
+Scraper.new.get_page
