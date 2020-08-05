@@ -21,3 +21,5 @@ class Scraper
   end
 
 end
+
+Scraper.new.ge_page
